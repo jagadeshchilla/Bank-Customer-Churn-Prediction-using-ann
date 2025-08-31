@@ -4,7 +4,10 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-3.11.3-red.svg)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.1-green.svg)](https://scikit-learn.org/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://bank-customer-churn-prediction-using-ann-hiweounrf864ycre6ptnw.streamlit.app/)
 
+## Live Demo 🌐
+View the live application here: [Bank Customer Churn Prediction App](https://bank-customer-churn-prediction-using-ann-hiweounrf864ycre6ptnw.streamlit.app/)
 
 ## Project Overview 🎯
 
